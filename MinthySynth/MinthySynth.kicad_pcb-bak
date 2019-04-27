@@ -1360,7 +1360,7 @@
     (descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm")
     (tags "tact sw push 6mm")
     (path /5C7B48B0)
-    (fp_text reference SW5 (at 2.8659 6.6414 180) (layer F.SilkS)
+    (fp_text reference SW5 (at 3.25 -2 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SW_Push_Dual (at 3.75 6.7 180) (layer F.Fab)
